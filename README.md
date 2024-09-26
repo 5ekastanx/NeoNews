@@ -61,7 +61,7 @@ Docker Compose
 Installation
 1. Clone the repository:
    git clone https://github.com/5ekastanx/NeoNews.git
-   cd NeoNeo
+   cd NeoNews
 2. Create and activate a virtual environment:
    python -m venv venv
    source venv/bin/activate   # On Windows use `venv\Scripts\activate`
